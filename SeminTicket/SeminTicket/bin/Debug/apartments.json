@@ -1,0 +1,34 @@
+[
+  {
+    "Address": "Носовская ул., д. 5, кв. 345",
+    "Area": 45.0,
+    "NumberOfRooms": 4,
+    "RentPerDay": 4500.0,
+    "Description": "Есть кондиционер",
+    "IsAvailable": false
+  },
+  {
+    "Address": "Пушкинская, дом 9, кв.96",
+    "Area": 56.0,
+    "NumberOfRooms": 2,
+    "RentPerDay": 5600.0,
+    "Description": "Все удобства",
+    "IsAvailable": true
+  },
+  {
+    "Address": "Студенецкая набережная 115, кв.33",
+    "Area": 45.0,
+    "NumberOfRooms": 4,
+    "RentPerDay": 9800.0,
+    "Description": "Не работает домофон",
+    "IsAvailable": false
+  },
+  {
+    "Address": "Агапкина ул., д. 132, кв. 54",
+    "Area": 45.0,
+    "NumberOfRooms": 1,
+    "RentPerDay": 3000.0,
+    "Description": "Свежий ремонт",
+    "IsAvailable": true
+  }
+]
